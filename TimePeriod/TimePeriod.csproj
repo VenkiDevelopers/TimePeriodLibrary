@@ -1,10 +1,10 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net6</TargetFrameworks>
+    <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>Itenso.TimePeriod</AssemblyName>
     <RootNamespace>Itenso.TimePeriod</RootNamespace>
-    <Version>9.3.1</Version>
+    <Version>9.11.1</Version>
     <Authors>Jani Giannoudis</Authors>
     <Company />
     <PackageProjectUrl>http://www.codeproject.com/Articles/168662/Time-Period-Library-for-NET</PackageProjectUrl>
